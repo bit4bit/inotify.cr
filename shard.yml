@@ -1,5 +1,5 @@
 name: inotify
-version: 1.0.3
+version: 1.0.4
 description: |
   Inotify bindings for Crystal language
 
